@@ -11,7 +11,7 @@
     
 #User Stories:
 #   1.Lehrer: Als Lehrer möchte ich Noten für Schüler eingeben und #bearbeiten, um ihre Leistungen aktuell zu dokumentieren.
-#	2.Schüler: Als Schüler möchte ich meine Noten online einsehen, um #meinen Fortschritt zu überwachen.
-#	3.Direktor: Als Direktor möchte ich die Notenverteilung der Klassen #einsehen, um die schulische Leistung zu analysieren.
-#	4.Eltern: Als Elternteil möchte ich die Noten meines Kindes einsehen, #um seine schulische Entwicklung zu unterstützen.
-#	5.Systemadministrator: Als Systemadministrator möchte ich #Benutzerkonten verwalten, um den Zugriff auf das System zu steuern.
+#	2.Schüler: Als Schüler möchte ich meine Noten online einsehen, um meinen Fortschritt zu überwachen.
+#	3.Direktor: Als Direktor möchte ich die Notenverteilung der Klassen einsehen, um die schulische Leistung zu analysieren.
+#	4.Eltern: Als Elternteil möchte ich die Noten meines Kindes einsehen, um seine schulische Entwicklung zu unterstützen.
+#	5.Systemadministrator: Als Systemadministrator möchte ich Benutzerkonten verwalten, um den Zugriff auf das System zu steuern.
